@@ -1,0 +1,20 @@
+.heading-container {
+
+    display: center;
+    justify-content: center;
+    margin-left: 250px;
+}
+
+.btn-container {
+    display:inline;
+    justify-content: center;
+    margin-left: 250px;
+    
+    }
+
+.map-container {
+
+display:inline;
+    justify-content: center;
+    margin-left: 190px;
+}

@@ -1,0 +1,96 @@
+*{
+    margin: 10px;
+    padding: 0;
+    box-sizing:border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: center;
+    
+}
+
+/*img {
+    display: flex;
+    margin-left:centert;
+    margin-right: auto;
+    width: 50%; }
+*/
+
+
+    .btn-container {
+     width: 1000px;
+     display:flex;
+     justify-content: center;
+     
+
+        
+    }
+
+
+.img-container {
+    display: flex;
+    justify-content: center;
+
+
+}
+.droneslide {
+    width: 80%;
+}
+
+.heading {
+    justify-content: center;
+    display: flex;
+
+}
+
+.video-container {
+    display:flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+
+.paragraph-container {
+    justify-content: center;
+    display:flex;
+    border-inline:
+    margin: right 10px;
+}
+
+.bordered-text {
+    border:2px solid black;
+    padding: 10px;
+    width: 1000px;
+}
+
+.Signup-container {
+    
+
+}
+
+.indonesia-container img {
+
+    image-resolution:inherit;
+    width: 1000px;
+    height: fit-content;
+    display: flex;
+}
+.realestate-container img{
+
+    width: 1000px
+
+}
+
+.capture-container {
+    display: flex;
+}
+
+.topaerial-container {
+    display: flex;
+}
+
+.btn-group {
+    margin: 0%;
+    padding: 10px 1px;
+
+}
+    
+    
+

@@ -1,0 +1,21 @@
+
+.heading-container {
+
+    display: center;
+    justify-content: center;
+    margin-left: 250px;
+}
+
+.btn-container {
+display:inline;
+justify-content: center;
+margin-left: 250px;
+
+}
+
+.form-container {
+justify-content: center;
+display: flex;
+margin-left: 100px;
+padding-right: 100px;
+}
